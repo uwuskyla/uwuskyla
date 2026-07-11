@@ -14,16 +14,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
+![osu!](https://img.shields.io/badge/osu!-8A9BAE?style=flat-square)
+![Blitz Chess](https://img.shields.io/badge/blitz%20chess-8A9BAE?style=flat-square)
+![CS2](https://img.shields.io/badge/CS2-8A9BAE?style=flat-square)
+![War Thunder](https://img.shields.io/badge/War%20Thunder-8A9BAE?style=flat-square)
+![KSP](https://img.shields.io/badge/Kerbal%20Space%20Program-8A9BAE?style=flat-square)
+![Speedcubing](https://img.shields.io/badge/speedcubing-8A9BAE?style=flat-square)
+
 <br>
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="left" src="https://github-stats-extended.vercel.app/api?username=uwuskyla&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub stats" />
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=uwuskyla&layout=compact&hide_border=true" width="35%" alt="Top languages" />
-</a>
-
-<br clear="both">
-<br>
-
-`osu!` · `blitz chess` · `CS2` · `War Thunder` · `Kerbal Space Program` · `speedcubing`
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+</p>
